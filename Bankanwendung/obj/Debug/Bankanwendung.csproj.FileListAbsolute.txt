@@ -1,0 +1,15 @@
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\bin\Debug\Bankanwendung.exe.config
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\bin\Debug\Bankanwendung.exe
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\bin\Debug\Bankanwendung.pdb
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.csprojResolveAssemblyReference.cache
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\MainWindow.g.cs
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\App.g.cs
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung_MarkupCompile.cache
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung_MarkupCompile.lref
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\MainWindow.baml
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.g.resources
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.Properties.Resources.resources
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.csproj.GenerateResource.Cache
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.exe
+C:\Users\Lars\source\repos\Bankanwendung\Bankanwendung\obj\Debug\Bankanwendung.pdb
