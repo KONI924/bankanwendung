@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:Bankanwendung"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
+    <Grid Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20">
+                        Bankanwendung
+        </TextBlock>
+
     </Grid>
 </Window>

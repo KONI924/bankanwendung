@@ -17,10 +17,5 @@ namespace Bankanwendung
 
         private List<Credit> list;
         public List<Credit> List { get => list; set => list = value; }
-
-
-        // manuelles anlegen von Kundenberatern
-
-        // Consultant("Mustermann", "Max", DateTime(02,09,1978), "Am Ring 24, 12345 Wiesloch", 1)
     }
 }

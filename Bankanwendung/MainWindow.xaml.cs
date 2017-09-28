@@ -27,7 +27,7 @@ namespace Bankanwendung
         {
             InitializeComponent();
 
-            //public Consultant cons1;
+            // manuelles Anlegen von Kundenberatern
             DateTime date1 = new DateTime(1976, 5, 1);
             cons1 = new Consultant("Mustermann", "Max", date1, "Am Ring 24, 12345 Wursthausen", 1);
             DateTime date2 = new DateTime(1986, 4, 8);
